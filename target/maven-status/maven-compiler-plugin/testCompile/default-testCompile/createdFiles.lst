@@ -1,0 +1,10 @@
+Selenium_Demo\Selenium_WebApp\LaunchTest.class
+tests\PageFAcotry_LoginTest.class
+tests\RegistrationTest.class
+stepdefinitions\LoginSteps.class
+tests\LoginTest1.class
+runners\TestRunner.class
+tests\ProductsTest.class
+tests\LoginPOM.class
+tests\LoginTest.class
+hooks\Hooks.class
